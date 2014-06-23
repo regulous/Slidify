@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Slide 2
+## What is my app?
 
 
 
@@ -29,19 +29,19 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Slide 3
+## How does it work?
 
 
 
 --- .class #id 
 
-## Slide 4
+## Why I come up with this app?
 
 
 
 
 --- .class #id 
 
-## Slide 5
+## Suggestions and Feedback.
 
 
